@@ -1,0 +1,15 @@
+{
+  "name": "theta",
+  "version": "0.0.1",
+  "author": "Erik Fonselius <fonsan@gmail.com>",
+  "description": "A runtime instrumentation library",
+  "devDependencies": {
+    "coffee-script": "1.6.1",
+    "mocha": "",
+    "should": "",
+    "moment":""
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}

@@ -1,0 +1,6 @@
+-r should
+--compilers coffee:coffee-script
+--timeout 200
+--slow 20
+-G
+-R spec
